@@ -12,6 +12,9 @@ This is a binary calculator project made using HTML, CSS, and JavaScript. It can
 
 To use the binary calculator, simply open the `index.html` file in your web browser. The calculator will load and you can start using it right away.
 
+![Binary Calculator](https://github.com/Sahilk3/Portfolio/blob/a352413283ccb3b5f85be41c8279ca201621762d/img/binary-calculator.JPG)
+
+
 ## How to Use
 
 1. Enter the first binary number in the input field labeled "First Number."
